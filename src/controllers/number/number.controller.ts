@@ -5,7 +5,6 @@ import {customErrorHandler} from "../../helpers";
  * ApiController class responsible for handling API requests related to numbers.
  */
 class NumberController {
-    private readonly numberService = numberService;
     constructor() {
     }
 
